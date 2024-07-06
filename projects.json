@@ -1,9 +1,15 @@
 [
   {
+    "name": "CareerShift",
+    "live": "https://main--careershift.netlify.app/",
+    "git": "https://github.com/harmangill13/careerShift-front",
+    "image": "https://i.imgur.com/lqgTMXi.png"
+  },
+  {
     "name": "Tennis Pro Shop",
     "live": "https://tennis-pro-shop-98cac16e3fa6.herokuapp.com/home",
     "git": "https://github.com/harmangill13/Tennis-Pro-Shop",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "image": "https://main--tennis-pro-shop.netlify.app/"
   },
   {
     "name": "A Knights Adventure",
